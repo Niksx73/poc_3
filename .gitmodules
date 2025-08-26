@@ -1,3 +1,3 @@
 [submodule "sub"]
-url = git@github.com:Niksx73/poc_1.git
-path = "sub"
+	url = git@github.com:Niksx73/poc_1.git
+	path = "sub"
